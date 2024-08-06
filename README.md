@@ -1,3 +1,14 @@
+# README
+
+Just started creating env linux env.
+
+## TODO:
+- add automation on installs
+- setup Nodejs 🤮 for sveltekit ❤️
+- setup golang
+- setup rust
+
+
 ## zsh ( oh my zsh )
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
