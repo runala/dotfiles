@@ -7,6 +7,7 @@ Just started creating env linux env.
 - setup Nodejs 🤮 for sveltekit ❤️
 - setup golang
 - setup rust
+- setup I3 maybe?
 
 
 ## zsh ( oh my zsh )
