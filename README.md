@@ -19,6 +19,14 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 sudo apt install tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
+
+### Source tmux
+```bash
+tmux
+tmux source ~/.tmux.conf
+```
+
+
 ### Installing plugins
 
 1. Add new plugin to `~/.tmux.conf` with `set -g @plugin '...'`
